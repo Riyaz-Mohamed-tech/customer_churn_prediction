@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+xgboost
+lightgbm
+shap
+lime
+joblib
+prometheus-client
